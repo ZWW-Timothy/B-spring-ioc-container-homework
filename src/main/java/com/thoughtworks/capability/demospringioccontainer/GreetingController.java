@@ -18,5 +18,4 @@ public class GreetingController {
     public String greet() {
         return greetingService.sayHi();
     }
-
 }
